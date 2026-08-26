@@ -1,0 +1,10 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Настройки и токены
+config/.env
+# Кэш Python
+__pycache__/
+*.pyc
